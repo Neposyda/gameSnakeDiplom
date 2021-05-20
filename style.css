@@ -1,0 +1,16 @@
+body {
+    background-color: LightGreen;
+}
+
+#canvas {
+    position: relative;
+    top: 15vh;
+    left: 35vw;
+    background-color: MintCream;
+    
+}
+/* 
+https://www.w3schools.com/colors/colors_groups.asp  + 
+    https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D0%B8_HTML   --- таблиця кольорів назвами 
+https://www.w3schools.com/colors/colors_picker.asp --- кольорова палітра кодами
+*/
